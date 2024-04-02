@@ -1,3 +1,3 @@
 # INTELLIGENT CAREER GUIDANCE SYSTEM
 
-Youtube video link: https://www.youtube.com/watch?v=fMQfYWDIpWU
+Give a test and based on your answers AI model will tell you in which domain you should proceed as a software engineer.
